@@ -14,6 +14,13 @@ public class Dugujiujian {
 		System.out.println("01");
 		System.out.println("03");
 		System.out.println("03");
-		
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
 	}
 }
